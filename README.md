@@ -1,2 +1,2 @@
 # grzegorzbury
-Learning python
+Hi!
